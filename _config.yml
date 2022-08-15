@@ -1,3 +1,5 @@
 theme: jekyll-theme-modernist
 title: FreeUni Crypto
 description: კრიპტოგრაფია | თავისუფალი უნივერსიტეტი
+github:
+  is_project_page: false
