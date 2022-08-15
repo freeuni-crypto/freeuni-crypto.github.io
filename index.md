@@ -29,31 +29,31 @@
 
 # საკითხავი
 
-კურსის ავტორის წიგნი: http://toc.cryptobook.us/  
+კურსის ავტორის წიგნი: <http://toc.cryptobook.us/>
 
 # სხვადასხვა ბმულები
 
 ## სხვა კურსები კრიპტოგრაფიაზე
 
-- დან ბონეს კურსი სტენფორდის უნივერსიტეტში: http://crypto.stanford.edu/~dabo/cs255/
-- მონი ნაორის კურსი ვაიცმანის უნივერსიტეტში: https://www.wisdom.weizmann.ac.il/~naor/COURSE/foundations_cryptography_21_22.html
-- ბოაზ ბარაკის კურსი ჰარვარდის უნივერსიტეტში: https://intensecrypto.org/public/index.html
-- რონ რივესტის და იაელ კალაის კურსი MIT-ში: http://courses.csail.mit.edu/6.857/2022/
-- ნაკლებად ფორმალური კურსი lvh-ისგან: https://www.crypto101.io/
-- ხანის აკადემიის კურსი: https://www.khanacademy.org/computing/computer-science/cryptography
+- დან ბონეს კურსი სტენფორდის უნივერსიტეტში: <http://crypto.stanford.edu/~dabo/cs255/>
+- მონი ნაორის კურსი ვაიცმანის უნივერსიტეტში: <https://www.wisdom.weizmann.ac.il/~naor/COURSE/foundations_cryptography_21_22.html>
+- ბოაზ ბარაკის კურსი ჰარვარდის უნივერსიტეტში: <https://intensecrypto.org/public/index.html>
+- რონ რივესტის და იაელ კალაის კურსი MIT-ში: <http://courses.csail.mit.edu/6.857/2022/>
+- ნაკლებად ფორმალური კურსი lvh-ისგან: <https://www.crypto101.io/>
+- ხანის აკადემიის კურსი: <https://www.khanacademy.org/computing/computer-science/cryptography>
 
 ## პრაქტიკული ამოცანები და გამოცანები
 
-- https://cryptopals.com/
-- https://mysterytwister.org/home/welcome/
-- https://cryptohack.org/
+- <https://cryptopals.com/>
+- <https://mysterytwister.org/home/welcome/>
+- <https://cryptohack.org/>
 
 ## სხვადასხვა ვიდეოები
 
-- ვიდეოილუსტრაციები კრიპტოგრაფიის თემებზე: https://www.youtube.com/c/ArtOfTheProblem/
-- 3b1b-ს ვიდეო "How secure is 256 bit security?": https://youtu.be/S9JGmA5_unY
-- დან ბონეს პოპ-მეცნიერული ლექცია "Cryptography: From Mathematical Magic to Secure Communication" ელიპტურ წირებსა და მათ გამოყენებებზე კრიპტოგრაფიაში: https://youtu.be/4M8_Oo7lpiA
-- სილვიო მიკალის პოპ-მეცნიერული ლექცია "Proofs, Knowledge, and Computation": https://youtu.be/WSuUTLqqLIU
+- ვიდეოილუსტრაციები კრიპტოგრაფიის თემებზე: <https://www.youtube.com/c/ArtOfTheProblem/>
+- 3b1b-ს ვიდეო "How secure is 256 bit security?": <https://youtu.be/S9JGmA5_unY>
+- დან ბონეს პოპ-მეცნიერული ლექცია "Cryptography: From Mathematical Magic to Secure Communication" ელიპტურ წირებსა და მათ გამოყენებებზე კრიპტოგრაფიაში: <https://youtu.be/4M8_Oo7lpiA>
+- სილვიო მიკალის პოპ-მეცნიერული ლექცია "Proofs, Knowledge, and Computation": <https://youtu.be/WSuUTLqqLIU>
 
 
 ## კრიპტოგრაფიის must-read სტატიები
