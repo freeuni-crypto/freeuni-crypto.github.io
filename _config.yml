@@ -1,3 +1,5 @@
 theme: minima
 title: FreeUni Crypto
 description: თავისუფალი უნივერსიტეტი
+plugins:
+  - jemoji
