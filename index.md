@@ -29,9 +29,11 @@
 
 ## დავალებები
 
-## საკითხავი
+## წიგნები და კონსპექტები
 
-კურსის ავტორის წიგნი: <http://toc.cryptobook.us/>
+- ბონეს და შუპის წიგნი: <http://toc.cryptobook.us/>
+- როსულეკის წიგნი: <https://joyofcryptography.com/pdf/book.pdf>
+- პასის და შელას კონსპექტი: <https://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf> 
 
 ## სხვადასხვა ბმულები
 
@@ -41,6 +43,7 @@
 - მონი ნაორის კურსი ვაიცმანის უნივერსიტეტში: <https://www.wisdom.weizmann.ac.il/~naor/COURSE/foundations_cryptography_21_22.html>
 - ბოაზ ბარაკის კურსი ჰარვარდის უნივერსიტეტში: <https://intensecrypto.org/public/index.html>
 - რონ რივესტის და იაელ კალაის კურსი MIT-ში: <http://courses.csail.mit.edu/6.857/2022/>
+- ვინოდ ვაიკუნტანათანის კურსი MIT-ში: <https://mit6875.github.io/>
 - ნაკლებად ფორმალური კურსი lvh-ისგან: <https://www.crypto101.io/>
 - ხანის აკადემიის კურსი: <https://www.khanacademy.org/computing/computer-science/cryptography>
 
@@ -56,7 +59,6 @@
 - 3b1b-ს ვიდეო "How secure is 256 bit security?": <https://youtu.be/S9JGmA5_unY>
 - დან ბონეს პოპ-მეცნიერული ლექცია "Cryptography: From Mathematical Magic to Secure Communication" ელიპტურ წირებსა და მათ გამოყენებებზე კრიპტოგრაფიაში: <https://youtu.be/4M8_Oo7lpiA>
 - სილვიო მიკალის პოპ-მეცნიერული ლექცია "Proofs, Knowledge, and Computation": <https://youtu.be/WSuUTLqqLIU>
-
 
 ### კრიპტოგრაფიის must-read სტატიები
 
