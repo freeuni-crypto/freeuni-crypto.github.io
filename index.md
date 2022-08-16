@@ -47,11 +47,12 @@
 - ნაკლებად ფორმალური კურსი lvh-ისგან: <https://www.crypto101.io/>
 - ხანის აკადემიის კურსი: <https://www.khanacademy.org/computing/computer-science/cryptography>
 
-### პრაქტიკული ამოცანები და გამოცანები
+### ამოცანები და გამოცანები
 
 - <https://cryptopals.com/>
 - <https://mysterytwister.org/home/welcome/>
 - <https://cryptohack.org/>
+- <https://www.wisdom.weizmann.ac.il/~naor/puzzler.html>
 
 ### სხვადასხვა ვიდეოები
 
