@@ -7,16 +7,16 @@
 
 ლექტორის ელფოსტა: [gosip12@freeuni.edu.ge](mailto:gosip12@freeuni.edu.ge)
 
-# კურსის აღწერა
+## კურსის აღწერა
 
 
 
-# ლექციები
+## ლექციები
 
 ლექციის ვიდეოებს იპოვით [ამ ვებგვერდზე](https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/) ან 
 [Coursera-ზე](https://www.coursera.org/learn/crypto).  
 
-# სემინარები
+## სემინარები
 
 სემინარის ამოცანები დევს [ამ ფოლდერში](https://drive.google.com/drive/folders/1RKYtNTA7EICkWdBVIcEVjUYeGgw288PN?usp=sharing),
 ვიდეოამახსნები კი
@@ -25,15 +25,15 @@
 **რჩევა:** სანამ ამოხსნის ვიდეოს უყურებთ, სცადეთ ამოცანის ამოხსნა დამოუკიდებლად
 (ან სხვა სტუდენტებთან ერთად).
 
-# დავალებები
+## დავალებები
 
-# საკითხავი
+## საკითხავი
 
 კურსის ავტორის წიგნი: <http://toc.cryptobook.us/>
 
-# სხვადასხვა ბმულები
+## სხვადასხვა ბმულები
 
-## სხვა კურსები კრიპტოგრაფიაზე
+### სხვა კურსები კრიპტოგრაფიაზე
 
 - დან ბონეს კურსი სტენფორდის უნივერსიტეტში: <http://crypto.stanford.edu/~dabo/cs255/>
 - მონი ნაორის კურსი ვაიცმანის უნივერსიტეტში: <https://www.wisdom.weizmann.ac.il/~naor/COURSE/foundations_cryptography_21_22.html>
@@ -42,13 +42,13 @@
 - ნაკლებად ფორმალური კურსი lvh-ისგან: <https://www.crypto101.io/>
 - ხანის აკადემიის კურსი: <https://www.khanacademy.org/computing/computer-science/cryptography>
 
-## პრაქტიკული ამოცანები და გამოცანები
+### პრაქტიკული ამოცანები და გამოცანები
 
 - <https://cryptopals.com/>
 - <https://mysterytwister.org/home/welcome/>
 - <https://cryptohack.org/>
 
-## სხვადასხვა ვიდეოები
+### სხვადასხვა ვიდეოები
 
 - ვიდეოილუსტრაციები კრიპტოგრაფიის თემებზე: <https://www.youtube.com/c/ArtOfTheProblem/>
 - 3b1b-ს ვიდეო "How secure is 256 bit security?": <https://youtu.be/S9JGmA5_unY>
@@ -56,7 +56,7 @@
 - სილვიო მიკალის პოპ-მეცნიერული ლექცია "Proofs, Knowledge, and Computation": <https://youtu.be/WSuUTLqqLIU>
 
 
-## კრიპტოგრაფიის must-read სტატიები
+### კრიპტოგრაფიის must-read სტატიები
 
 სია შეადგინა [მონი ნაორმა](https://www.wisdom.weizmann.ac.il/~naor/COURSE/foundations_cryptography_21_22.html).
 
