@@ -7,7 +7,7 @@
 კურსის ფორუმად ვიყენებთ 
 [Google Classroom](https://classroom.google.com/c/NTM4NjQ4MTYyNjI3)-ს.
 
-ლექტორის ელფოსტა: [gosip12@freeuni.edu.ge](mailto:gosip12@freeuni.edu.ge)
+ლექტორის ელფოსტა: [g.osipovi@freeuni.edu.ge](mailto:g.osipovi@freeuni.edu.ge)
 
 ## კურსის აღწერა
 
@@ -18,7 +18,7 @@
 შეფასება ხდება 3 საშინაო დავალების (3x10%) და ორი გამოცდის - 
 შუალედურის (30%) და ფინალურის (40%) - მიხედვით.
 
-**ლექციების** ვიდეოებს უნდა უყუროთ _დამოიკიდებლად_.
+**ლექციების** ვიდეოებს უნდა უყუროთ _დამოუკიდებლად_.
 ჩვენს სალექციო საათებს გამოვიყენებთ ნანახი მასალის განხილვაში.
 ჩანაწერებს იპოვით [ამ ვებგვერდზე](https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/) ან 
 [Coursera-ზე](https://www.coursera.org/learn/crypto).
@@ -70,6 +70,7 @@ _რჩევა:_ სანამ ამოხსნის ვიდეოს �
 განრიგი სავარაუდოა და შეიძლება შეიცვალოს მომავალში.
 
 | კვირა | თემა                                      | ვიდეო                                                            | ამოცანები                    |
+
 | ----- | ----------------------------------------- | ---------------------------------------------------------------- | ---------------------------- |
 | 1     | შესავალი                                  | What is cryptography?; Crash course in discrete probability      | Discrete Probability         |
 | 2     | One-Time Pad, Stream ciphers              | Stream Ciphers 1, 2, 3                                           | Problem Set 1: 1, 2, 3       |
@@ -86,7 +87,7 @@ _რჩევა:_ სანამ ამოხსნის ვიდეოს �
 | 13    | RSA                                       | PKE from Trapdoor Permutations: RSA, attacks                     | Problem Set 6: 2, 3          |
 | 14    | გამეორებ                                  | \-                                                               | Final Exam Prep              |
 | 15    | Zero-knowledge proofs                     |                                                                  |                              |
-| 16    | სტუმრის ლექცია                           |                                                                  |                              |
+| 16    | სტუმრის ლექცია                            |                                                                  |                              |
 --------
 
 ## სხვა ბმულები
