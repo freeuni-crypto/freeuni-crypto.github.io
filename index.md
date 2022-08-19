@@ -67,7 +67,8 @@ _რჩევა:_ სანამ ამოხსნის ვიდეოს �
 
 ## განრიგი
 
-სავარაუდო განრიგი. ვიდეოების სახელები იგივეა რაც [ამ გვერდზე](https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/).
+ეს არის სავარაუდო განრიგი. 
+ვიდეოების სახელები იგივეა რაც [ამ გვერდზე](https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/).
 თუ გინდათ, მოძებნოთ შესაბამისი თავი წიგნში, შეგიძლიათ გამოიყენოთ [CS255-ის სილაბუსი](http://crypto.stanford.edu/~dabo/cs255/syllabus.html).
 
 
