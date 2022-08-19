@@ -87,9 +87,9 @@ _რჩევა:_ სანამ ამოხსნის ვიდეოს �
 | 11    | Key exchange, Diffie-Hellman              | Basic Key Exchange 1, 2                                          | Problem Set 5: 2, 3          |
 | 12    | Chosen ciphertext security, ElGamal       | PKE from Trapdoor Permutations, PKE From Diffie-Hellman: ElGamal | Problem Set 6: 1             |
 | 13    | RSA                                       | PKE from Trapdoor Permutations: RSA, attacks                     | Problem Set 6: 2, 3          |
-| 14    | გამეორება                                 | \-                                                               | მომზადება ფინალურისთვის      |
+| 14    | გამეორება                                 | \-                                                               | მომზადება ფინალურისთვის     |
 | 15    | Zero-knowledge proofs                     |                                                                  |                              |
-| 16    | სტუმრის ლექცია                            |                                                                  |                              |
+| 16    | Quantum cryptography (სტუმრის ლექცია)    |                                                                  |                              |
 
 
 ## სხვა ბმულები
