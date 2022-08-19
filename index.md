@@ -67,27 +67,26 @@ _რჩევა:_ სანამ ამოხსნის ვიდეოს �
 
 ## განრიგი
 
-<!-- განრიგი სავარაუდოა და შეიძლება შეიცვალოს მომავალში.
+განრიგი სავარაუდოა და შეიძლება შეიცვალოს მომავალში.
 
-| თარიღი   | თემები               | ვიდეოები            | ამოცანები            |
-|----------|----------------------|----------------------|----------------------|
-|          |                      |                      |                      |
-|          |                      |                      |                      |
-|          |                      |                      |                      |
-|          |                      |                      |                      |
-|          |                      |                      |                      |
-|          |                      |                      |                      |
-|          |                      |                      |                      |
-|          |                      |                      |                      |
-|          |                      |                      |                      |
-|          |                      |                      |                      |
-|          |                      |                      |                      |
-|          |                      |                      |                      |
-|          |                      |                      |                      |
-|          |                      |                      |                      |
-|          |                      |                      |                      |
-|          |                      |                      |                      |
- -->
+| კვირა | თემა                                      | ვიდეო                                                            | ამოცანები                    |
+| ----- | ----------------------------------------- | ---------------------------------------------------------------- | ---------------------------- |
+| 1     | შესავალი                                  | What is cryptography?; Crash course in discrete probability      | Discrete Probability         |
+| 2     | One-Time Pad, Stream ciphers              | Stream Ciphers 1, 2, 3                                           | Problem Set 1: 1, 2, 3       |
+| 3     | Pseudorandom generators, Sematic security | Stream Ciphers 4                                                 | Problem Set 1: 4, 5, 6       |
+| 4     | Block ciphers, Pseudorandom functions     | Block Ciphers 1, 2, 3; How to Use Block Ciphers 1                | Problem Set 2: 1, 2          |
+| 5     | CBC and CTR modes of encryption           | How to Use Block Ciphers 2                                       | Problem Set 2: 3, 4, 5, 6, 7 |
+| 6     | Message authentication codes (MAC)        | Message Integrity 1, 2                                           | Problem Set 3: 1, 2, 3       |
+| 7     | Hash functions, HMAC                      | Collision Resistance 1, 2; HMAC                                  | Problem Set 3: 4, 5, 6, 7, 8 |
+| 8     | Chosen ciphertext attacks                 | Authenticated Encryption 1, 2, 3                                 | Midterm Exam Prep            |
+| 9     | Authenticated encryption                  | Odds and Ends 1, 2, 3                                            | Problem Set 4: 1, 2, 3       |
+| 10    | Number theory and groups I                | Number Theory 1, 2                                               | Problem Set 5: 1             |
+| 11    | Key exchange, Diffie-Hellman              | Basic Key Exchange 1, 2                                          | Problem Set 5: 2, 3          |
+| 12    | Chosen ciphertext security, ElGamal       | PKE from Trapdoor Permutations, PKE From Diffie-Hellman: ElGamal | Problem Set 6: 1             |
+| 13    | RSA                                       | PKE from Trapdoor Permutations: RSA, attacks                     | Problem Set 6: 2, 3          |
+| 14    | გამეორებ                                  | \-                                                               | Final Exam Prep              |
+| 15    | Zero-knowledge proofs                     |                                                                  |                              |
+| 16    | სტუმრის ლექცია                           |                                                                  |                              |
 --------
 
 ## სხვა ბმულები
