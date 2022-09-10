@@ -72,24 +72,25 @@ _რჩევა:_ სანამ ამოხსნის ვიდეოს �
 თუ გინდათ, მოძებნოთ შესაბამისი თავი წიგნში, შეგიძლიათ გამოიყენოთ [CS255-ის სილაბუსი](http://crypto.stanford.edu/~dabo/cs255/syllabus.html).
 
 
-| კვირა | თემა                                      | ვიდეო                                                            | ამოცანები                    |
+| კვირა | მიმდინარე კვირის თემა                     | შემდეგი კვირისთვის საყურებელი ვიდეო                              | შემდეგი კვირის ამოცანები     |
 | ----- | ----------------------------------------- | ---------------------------------------------------------------- | ---------------------------- |
-| 1     | შესავალი                                  | What is cryptography?; Crash course in discrete probability      | Discrete Probability         |
-| 2     | One-Time Pad, Stream ciphers              | Stream Ciphers 1, 2, 3                                           | Problem Set 1: 1, 2, 3       |
-| 3     | Pseudorandom generators, Sematic security | Stream Ciphers 4                                                 | Problem Set 1: 4, 5, 6       |
-| 4     | Block ciphers, Pseudorandom functions     | Block Ciphers 1, 2, 3; How to Use Block Ciphers 1                | Problem Set 2: 1, 2          |
-| 5     | CBC and CTR modes of encryption           | How to Use Block Ciphers 2                                       | Problem Set 2: 3, 4, 5, 6, 7 |
-| 6     | Message authentication codes (MAC)        | Message Integrity 1, 2                                           | Problem Set 3: 1, 2, 3       |
-| 7     | Hash functions, HMAC                      | Collision Resistance 1, 2; HMAC                                  | Problem Set 3: 4, 5, 6, 7, 8 |
-| 8     | Chosen ciphertext attacks                 | Authenticated Encryption 1, 2, 3                                 | მომზადება შუალედურისთვის     |
-| 9     | Authenticated encryption                  | Odds and Ends 1, 2, 3                                            | Problem Set 4: 1, 2, 3       |
-| 10    | Number theory and groups I                | Number Theory 1, 2                                               | Problem Set 5: 1             |
-| 11    | Key exchange, Diffie-Hellman              | Basic Key Exchange 1, 2                                          | Problem Set 5: 2, 3          |
-| 12    | Chosen ciphertext security, ElGamal       | PKE from Trapdoor Permutations, PKE From Diffie-Hellman: ElGamal | Problem Set 6: 1             |
-| 13    | RSA                                       | PKE from Trapdoor Permutations: RSA, attacks                     | Problem Set 6: 2, 3          |
-| 14    | გამეორება                                 | \-                                                               | მომზადება ფინალურისთვის     |
+| 0     |                                           | What is cryptography?; Crash course in discrete probability      | Discrete Probability         |
+| 1     | შესავალი                                  | Stream Ciphers 1, 2, 3                                           | Problem Set 1: 1, 2, 3       |
+| 2     | One-Time Pad, Stream ciphers              | Stream Ciphers 4                                                 | Problem Set 1: 4, 5, 6       |
+| 3     | Pseudorandom generators, Sematic security | Block Ciphers 1, 2, 3; How to Use Block Ciphers 1                | Problem Set 2: 1, 2          |
+| 4     | Block ciphers, Pseudorandom functions     | How to Use Block Ciphers 2                                       | Problem Set 2: 3, 4, 5, 6, 7 |
+| 5     | CBC and CTR modes of encryption           | Message Integrity 1, 2                                           | Problem Set 3: 1, 2, 3       |
+| 6     | Message authentication codes (MAC)        | Collision Resistance 1, 2; HMAC                                  | Problem Set 3: 4, 5, 6, 7, 8 |
+| 7     | Hash functions, HMAC                      | Authenticated Encryption 1, 2, 3                                 | შარშანდელი შუალედურის ბილეთი |
+| 8     | Chosen ciphertext attacks                 | Odds and Ends 1, 2, 3                                            | Problem Set 4: 1, 2, 3       |
+| 9     | Authenticated encryption                  | Number Theory 1, 2                                               | Problem Set 5: 1             |
+| 10    | Number theory and groups I                | Basic Key Exchange 1, 2                                          | Problem Set 5: 2, 3          |
+| 11    | Key exchange, Diffie-Hellman              | PKE from Trapdoor Permutations, PKE From Diffie-Hellman: ElGamal | Problem Set 6: 1             |
+| 12    | Chosen ciphertext security, ElGamal       | PKE from Trapdoor Permutations: RSA, attacks                     | Problem Set 6: 2, 3          |
+| 13    | RSA                                       |                                                                  | შარშანდელი ფინალურის ბილეთი  |
+| 14    | გამეორება                                 |                                                                  |                              |
 | 15    | Zero-knowledge proofs                     |                                                                  |                              |
-| 16    | Quantum cryptography (სტუმრის ლექცია)    |                                                                  |                              |
+| 16    | Quantum cryptography (სტუმრის ლექცია)     |                                                                  |                              |
 
 
 ## სხვა ბმულები
