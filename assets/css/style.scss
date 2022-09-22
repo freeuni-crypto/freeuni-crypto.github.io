@@ -1,4 +1,4 @@
-$content-width: 1200px !default;
+$content-width: 1200px;
 
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
