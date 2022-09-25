@@ -104,12 +104,6 @@ _რჩევა:_ სანამ ამოხსნის ვიდეოს �
 - R - როსულეკის უფასო წიგნიდან ["The Joy of Cryptography"](https://joyofcryptography.com/pdf/book.pdf)
 - KL - კაცის და ლინდელის წიგნი (დევს კლასრუმზე)
 
-- One-Time Pad: [R] 1.(1,2,4,5,7,8,10); [KL] 2.(8-10)
-- Pseudorandom Generators: [R] 5.(1,7-14); [KL] 3.(5,6)
-- Pseudorandom Functions: [R] 6.(2-10,17); [KL] 3.(11,14,15,16,19)
-- Block ciphers: [R] [KL] 3.(26,29-33)
-- To be continued ...
-
 | თემა                    | R                     | KL                 |
 | ----------------------- | --------------------- | ------------------ |
 | One-Time Pad            | 1.(1,2,4,5,7,8,10)    | 2.(8,9,10).        | 
