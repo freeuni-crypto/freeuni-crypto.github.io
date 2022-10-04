@@ -82,7 +82,7 @@ _რჩევა:_ სანამ ამოხსნის ვიდეოს �
 | 0  |                                           | What is cryptography?; Crash course in discrete probability      | Discrete Probability         |
 | 1  | შესავალი                                  | Stream Ciphers 1, 2, 3                                           | Problem Set 1: 1, 2, 3       |
 | 2  | One-Time Pad, Stream ciphers              | Stream Ciphers 4                                                 | Problem Set 1: 4, 5, 6       |
-| 3  | Pseudorandom generators, Sematic security | Block Ciphers 1, 2, 3;                                           | Problem Set 2: 1, 2          |
+| 3  | Pseudorandom generators, Sematic security | Block Ciphers 1, 2, 3                                            | Problem Set 2: 1, 2          |
 | 4  | DES, AES, Pseudorandom permutations       | How to Use Block Ciphers 1, 2                                    | Problem Set 2: 3, 4, 5, 6, 7 |
 | 5  | Block ciphers, modes of encryption        | Message Integrity 1, 2                                           | Problem Set 3: 1, 2, 3       |
 | 6  | Message authentication codes (MAC)        | Collision Resistance 1, 2; HMAC                                  | Problem Set 3: 4, 5, 6, 7, 8 |
