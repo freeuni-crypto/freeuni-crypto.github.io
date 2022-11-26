@@ -88,11 +88,11 @@ _რჩევა:_ სანამ ამოხსნის ვიდეოს �
 | 7  | Hash functions, HMAC                      | Authenticated Encryption 1, 2, 3                                 | შარშანდელი შუალედურის ბილეთი |
 | 8  | Chosen ciphertext attacks                 | Odds and Ends 1, 2, 3                                            | Problem Set 4: 1, 2, 3       |
 | 9  | Authenticated encryption                  | Number Theory 1, 2                                               | Problem Set 5: 1             |
-| 10 | Number theory and groups I                | Basic Key Exchange 1, 2                                          | Problem Set 5: 2, 3          |
-| 11 | Key exchange, Diffie-Hellman              | PKE from Trapdoor Permutations, PKE From Diffie-Hellman: ElGamal | Problem Set 6: 1             |
-| 12 | Chosen ciphertext security, ElGamal       | PKE from Trapdoor Permutations: RSA, attacks                     | Problem Set 6: 2, 3          |
-| 13 | RSA                                       |                                                                  | შარშანდელი ფინალურის ბილეთი  |
-| 14 | გამეორება                                 |                                                                  |                              |
+| 10 | დასვენება                                 |                                                                  |                              |
+| 11 | Number theory and groups                  | Basic Key Exchange 1, 2                                          | Problem Set 5: 2, 3          |
+| 12 | Key exchange, Diffie-Hellman              | PKE from Trapdoor Permutations, PKE From Diffie-Hellman: ElGamal | Problem Set 6: 1             |
+| 13 | Chosen ciphertext security, ElGamal       | PKE from Trapdoor Permutations: RSA, attacks                     | Problem Set 6: 2, 3          |
+| 14 | RSA                                       |                                                                  | შარშანდელი ფინალურის ბილეთი  |
 | 15 | Zero-knowledge proofs                     |                                                                  |                              |
 | 16 | Quantum cryptography (სტუმრის ლექცია)     |                                                                  |                              |
 
