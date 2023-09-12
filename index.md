@@ -5,7 +5,7 @@
 აქ იპოვით ინფორმაციას ლექციებზე, სემინარებსა და საშინაო დავალებებზე,
 ასევე სხვა გამოსადეგ ბმულებს.
 კურსის ფორუმად ვიყენებთ 
-[Google Classroom](https://classroom.google.com/c/NTM4NjQ4MTYyNjI3)-ს.
+[Google Classroom](https://classroom.google.com/c/NjIyNjU0NTA3MDky)-ს.
 
 ლექტორის ელფოსტა: [g.osipovi@freeuni.edu.ge](mailto:g.osipovi@freeuni.edu.ge)
 
@@ -43,9 +43,9 @@ _რჩევა:_ სანამ ამოხსნის ვიდეოს �
 დავალებებს ვწერთ Python 3-ზე. 
 შეგიძლიათ გამოიყენოთ მხოლოდ [სტანდარტული ბიბლიოთეკის](https://docs.python.org/3/library/) ფუნქციები.
 
-- პირველი დავალების ბმული: <https://classroom.github.com/a/jj9zOPco>
-- მეორე დავალების ბმული: <https://classroom.github.com/a/nuwne3Ni>
-- მესამე დავალების ბმული: <https://classroom.github.com/a/MSPLo8vI>
+- პირველი დავალების ბმული: <https://classroom.github.com/a/-rvYMdrL>
+- მეორე დავალების ბმული: <https://classroom.github.com/a/djCIlYSR>
+- მესამე დავალების ბმული: <https://classroom.github.com/a/GV_k7ho0>
 
 ყველა დავალების **დედლაინი** არის ფინალურ გამოცდამდე ერთი კვირით ადრე. 
 
