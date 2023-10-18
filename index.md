@@ -99,10 +99,11 @@ _რჩევა:_ სანამ ამოხსნის ვიდეოს �
 
 ## კონსპექტები
 
+- [იდეალური დაცულობა და შენონის თეორემა](https://hackmd.io/@gosip/perfect-secrecy)
+- ...
 - [ჯგუფები და დიფი-ჰელმანის გასაღების გაცვლის პროტოკოლი](https://hackmd.io/@gosip/groups-diffie-hellman)
 - [მოდულარული არითმეტიკა](https://hackmd.io/@gosip/mod-arithmetic)
 - [დაშიფრვა საჯარო გასაღებით და RSA](https://hackmd.io/@gosip/pke-and-rsa)
-- ...
 
 ### დამატებითი სავარჯიშოები
 
