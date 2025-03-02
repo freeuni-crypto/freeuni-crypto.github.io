@@ -42,9 +42,9 @@ _რჩევა:_ სანამ ამოხსნის ვიდეოს �
 დავალებებს ვწერთ Python 3-ზე. 
 შეგიძლიათ გამოიყენოთ მხოლოდ [სტანდარტული ბიბლიოთეკის](https://docs.python.org/3/library/) ფუნქციები.
 
-- პირველი დავალების ბმული: <https://classroom.github.com/a/c2EzKtPK>
-- მეორე დავალების ბმული: <https://classroom.github.com/a/y8Ti2kMu>
-- მესამე დავალების ბმული: <https://classroom.github.com/a/rKqiihoU>
+- პირველი დავალების ბმული: <https://classroom.github.com/a/biFUVLBZ>
+- მეორე დავალების ბმული: <https://classroom.github.com/a/X5m8A3Rl>
+- მესამე დავალების ბმული: <https://classroom.github.com/a/AzmJAX8P>
 
 ყველა დავალების **დედლაინი** არის ფინალურ გამოცდამდე **ორი კვირით** ადრე. 
 
